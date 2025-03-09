@@ -1,0 +1,18 @@
+{
+  "name": "popup-suggestion",
+  "version": "1.0.0",
+  "description": "A simple Vanilla JS popup that appears when specific button is pressed, similar to GitHub PR issue suggestions.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "popup",
+    "suggestion",
+    "vanilla-js",
+    "github",
+    "github-style"
+  ],
+  "author": "\"Rabinson Thapa\"",
+  "license": "MIT"
+}
