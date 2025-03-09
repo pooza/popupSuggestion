@@ -70,7 +70,9 @@ class PopupSuggestion {
 
   async loadData() {
     try {
-      const response = await fetch(this.jsonUrl);
+      const response = await fetch(this.jsonUrl, {
+        headers: this.options.headers ?? {},
+      });
       this.jsonData = await response.json();
     } catch (error) {
       console.error("Error loading JSON:", error);
