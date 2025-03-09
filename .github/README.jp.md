@@ -2,7 +2,7 @@
 
 PopupSuggestion は、特定のトリガーキー（デフォルトは `#`）が入力フィールドまたはテキストエリア内で押されると、オートサジェストポップアップを提供する軽量なバニラ JavaScript ライブラリです。サジェストは JSON ファイルから取得され、スタイル付きのポップアップに表示されます。
 
-![PopupSuggestion Demo](./sample.gif)
+![PopupSuggestion Demo](https://popup-suggestion-gif.rabinsonthapa.me/)
 
 ## 特徴
 
