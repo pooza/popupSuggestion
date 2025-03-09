@@ -2,6 +2,8 @@
 
 PopupSuggestion is a lightweight Vanilla JavaScript library that provides an auto-suggestion popup when a specific trigger key (default: `#`) is pressed inside an input field or textarea. The suggestions are fetched from a JSON file and displayed in a styled popup.
 
+![PopupSuggestion Demo](./sample.gif)
+
 ## Features
 
 - Supports any input field or textarea.
